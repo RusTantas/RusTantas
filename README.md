@@ -33,19 +33,25 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="DS" height="25" src="images/php.svg"></code>
-  <code><img title="ML" height="25" src="images/flask.png"></code>
-</p>
+  🔭 Python
+  <br>
+  🔭 DS
+  <br>
+  🔭 Git
+    <br>
+  🔭 PostgreSQL
+    <br>
+  🔭 Visual Studio Code
+    <br>
+  🔭 JSON
+    <br>
+  🔭 GitHub
+    <br>
+  🔭 GitLab
+    <br>
+  🔭 MySQL
+    <br>
+  🔭 And more....
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
